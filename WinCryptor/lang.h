@@ -1,1 +1,1 @@
-// Header for language support.
+<Language Support Placeholder>

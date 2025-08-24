@@ -1,1 +1,1 @@
-// Implementation of logging functions.
+<Logging Functions Implementation>

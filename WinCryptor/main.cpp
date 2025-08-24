@@ -1,5 +1,1 @@
-#include <iostream>
-int main() {
-    std::cout << "Hello WinCryptor!";
-    return 0;
-}
+<Simple Win32 Application Code>

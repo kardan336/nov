@@ -1,1 +1,1 @@
-// Header for stub functions.
+<Stub Functions Header>

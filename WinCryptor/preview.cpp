@@ -1,1 +1,1 @@
-// Implementation of preview functions.
+<Preview Functions Implementation>

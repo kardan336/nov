@@ -1,1 +1,1 @@
-// Header for logging functions.
+<Logging Functions Header>

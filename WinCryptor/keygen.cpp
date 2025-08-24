@@ -1,1 +1,1 @@
-// Implementation of key generation functions.
+<Key Generation Functions Implementation>

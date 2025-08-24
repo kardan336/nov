@@ -1,3 +1,1 @@
-# WinCryptor
-
-Initial project structure for WinCryptor.
+<Brief Project Description>

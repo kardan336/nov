@@ -1,1 +1,1 @@
-// Implementation of stub functions.
+<Stub Functions Implementation>

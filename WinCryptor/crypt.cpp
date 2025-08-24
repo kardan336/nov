@@ -1,1 +1,1 @@
-// Implementation of cryptographic functions.
+<Cryptographic Functions Implementation>

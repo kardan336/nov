@@ -1,1 +1,1 @@
-// Header for cryptographic functions.
+<Cryptographic Functions Header>
